@@ -7,7 +7,7 @@
 ## Contribution
 
 Anyone is more than welcome to contribute. Before you can run this web app on your local machine you need to have installed:
-* [Node.js](http://nodejs.org/)
+* [Node.js](http://nodejs.org/) (version 18 or later)
 * [MongoDB](https://www.mongodb.org/)
 * [npm](https://github.com/npm/npm)
 * [Node Canvas](https://github.com/Automattic/node-canvas)
